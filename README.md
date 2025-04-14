@@ -23,16 +23,19 @@
 _**Tools:** Python, Pandas, Matplotlib, Seaborn_  
 > 📊 District-wise analysis of SunDirect, TataSky, and VillageCable  
 > 🔍 Insights into churn, setup box interests, and retention strategies  
+[🔗 Project Link](https://drive.google.com/file/d/1oErheUiD839TKRgILa06mHAc9O_haDrQ/view?usp=drive_link)
 
 #### 🎬 Box Office Success Prediction  
 _**Tools:** Scikit-learn, Pandas, Python_  
 > 🎥 Used ML to predict ₹100Cr+ movie hits with 85% accuracy  
 > 📌 Features like star power and genre match  
+[🔗 Project Link](https://drive.google.com/file/d/1nz3ff5YyObOMHnNrT2U0myv7Jm2KGaaj/view?usp=drive_link)
 
 #### 🎓 College Recommendation Dashboard  
 _**Tools:** Power BI, Excel, DAX_  
 > 📚 Built for Telangana EAMCET aspirants using rank-based simulation  
 > 📈 Improved personalized matches by 25%  
+[🔗 Project Link](https://drive.google.com/file/d/1oKMilF0TsQCrxZuenLATdeaunRxqP8Dt/view?usp=sharing)
 
 ---
 
@@ -66,7 +69,7 @@ _**Tools:** Power BI, Excel, DAX_
 
 ### 📄 Resume
 
-[![View My Resume](https://img.shields.io/badge/Resume-GoogleDrive-blue?logo=googledrive&style=for-the-badge)](https://drive.google.com/file/d/1nz3ff5YyObOMHnNrT2U0myv7Jm2KGaaj/view?usp=drive_link)
+[![View My Resume](https://img.shields.io/badge/Resume-GoogleDrive-blue?logo=googledrive&style=for-the-badge)](https://drive.google.com/file/d/1NIJuYK4CDjyCqK6J8Ofq3AvDwbYgEiYa/view?usp=sharing)
 
 ---
 
