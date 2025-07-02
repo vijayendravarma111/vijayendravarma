@@ -51,10 +51,11 @@ _**Tools:** Scikit-learn, Pandas, Python_
 
 ###  Certifications
 
-- **Python for Data Science** – NPTEL  
-- **Machine Learning Using Python Programming** – NPTEL  
-- **C Programming Language** – NPTEL  
-- **Microsoft Azure AI Fundamentals** – Microsoft Certified  
+- [**Python for Data Science** – NPTEL](https://drive.google.com/file/d/1nz3ff5YyObOMHnNrT2U0myv7Jm2KGaaj/view)  
+- [**Machine Learning Using Python Programming** – NPTEL](https://drive.google.com/file/d/1dMlUIiRuiERlZ9iPuj2j73HHyh9sA-5_/view?usp=sharing)  
+- [**C Programming Language** – NPTEL](https://drive.google.com/file/d/1oErheUiD839TKRgILa06mHAc9O_haDrQ/view)  
+- [**Microsoft Azure AI Fundamentals** – Microsoft Certified](https://drive.google.com/file/d/1oKMilF0TsQCrxZuenLATdeaunRxqP8Dt/view)
+
 
 ---
 
