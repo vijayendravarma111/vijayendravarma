@@ -19,48 +19,49 @@
 
 ###  Projects I'm Proud Of
 
+#### IPL Analysis Dashboard  
+_**Tools:** Power BI, DAX, Data Modeling_  
+> Designed to analyze 15 IPL seasons with insights on player stats, team trends, and match outcomes  
+> Highlights toss impact, star performers, and venue-based success across all years  
+
+
 ####  DTH Multi-Provider Analytics  
 _**Tools:** Python, Pandas, Matplotlib, Seaborn_  
 >  District-wise analysis of SunDirect, TataSky, and VillageCable  
 >  Insights into churn, setup box interests, and retention strategies  
 
-#### 🎬 Box Office Success Prediction  
+####  Box Office Success Prediction  
 _**Tools:** Scikit-learn, Pandas, Python_  
 >  Used ML to predict ₹100Cr+ movie hits with 85% accuracy  
 >  Features like star power and genre match  
 
-####  College Recommendation Dashboard  
-_**Tools:** Power BI, Excel, DAX_  
->  Built for Telangana EAMCET aspirants using rank-based simulation  
->  Improved personalized matches by 25%  
-
 ---
 
-###  My Tech Toolbox
+###  Tech Toolbox
 
-| Category | Tools |
-|---------|-------|
-| Languages | `Python` `SQL` `C` `Java` |
-| Libraries | `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` |
-| Data Viz | `Power BI` `Tableau` |
-| Tools | `Jupyter` `Colab` `VS Code` |
-| Other | `GitHub` `HTML` `Excel` |
+| Category     | Tools                                                                 |
+|--------------|-----------------------------------------------------------------------|
+| Languages    | C, Java, Python (NumPy, Pandas, Matplotlib, Seaborn), SQL            |
+| Libraries    | Pandas, Matplotlib, Seaborn, Scikit-learn                            |
+| Data Viz     | Power BI, Tableau                                                     |
+| Tools        | Jupyter Notebook, Google Colab, Visual Studio Code                   |
+| Other        | GitHub, HTML, Windows                                                 |
 
 ---
 
 ###  Certifications
 
-- Python for Data Science – NPTEL  
-- C Programming – NPTEL  
-- Microsoft Azure AI Fundamentals – Microsoft  
+- **Python for Data Science** – NPTEL  
+- **Machine Learning Using Python Programming** – NPTEL  
+- **C Programming Language** – NPTEL  
+- **Microsoft Azure AI Fundamentals** – Microsoft Certified  
 
 ---
 
 ###  Achievements
 
-- Participated in **Smart India Hackathon (SIH)**  
-- Active in **TEDx**, **VISHESH**, and innovation challenges  
-- Finalist in **MSME Hackathons**
+• Engaged in impactful tech and innovation events including **VISHESH**, **TEDx**, and multiple college-level hackathons.  
+• Contributed to national innovation initiatives such as **Smart India Hackathon (SIH)** and **MSME Idea Hackathons**, collaborating on real-world problem-solving challenges.
 
 ---
 
