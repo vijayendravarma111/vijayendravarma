@@ -7,36 +7,36 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center"> About Me</h2>
 
-🎓 I'm a Data Science student at **Malla Reddy Engineering College**, Hyderabad (CGPA 9.5)  
-🧠 I love analyzing data, building dashboards, and solving real-world problems with ML  
-📊 Passionate about data visualization and machine learning  
-🛠️ Currently diving deeper into Python, Power BI, Tableau, and AI tools  
-📫 Reach me at: [vijayendravarma444@gmail.com](mailto:vijayendravarma444@gmail.com)
+ I'm a Data Science student at **Malla Reddy Engineering College**, Hyderabad (CGPA 9.5)  
+ I love analyzing data, building dashboards, and solving real-world problems with ML  
+ Passionate about data visualization and machine learning  
+ Currently diving deeper into Python, Power BI, Tableau, and AI tools  
+ Reach me at: [vijayendravarma444@gmail.com](mailto:vijayendravarma444@gmail.com)
 
 ---
 
-### 🧠 Projects I'm Proud Of
+###  Projects I'm Proud Of
 
-#### 📈 DTH Multi-Provider Analytics  
+####  DTH Multi-Provider Analytics  
 _**Tools:** Python, Pandas, Matplotlib, Seaborn_  
-> 📊 District-wise analysis of SunDirect, TataSky, and VillageCable  
-> 🔍 Insights into churn, setup box interests, and retention strategies  
+>  District-wise analysis of SunDirect, TataSky, and VillageCable  
+>  Insights into churn, setup box interests, and retention strategies  
 
 #### 🎬 Box Office Success Prediction  
 _**Tools:** Scikit-learn, Pandas, Python_  
-> 🎥 Used ML to predict ₹100Cr+ movie hits with 85% accuracy  
-> 📌 Features like star power and genre match  
+>  Used ML to predict ₹100Cr+ movie hits with 85% accuracy  
+>  Features like star power and genre match  
 
-#### 🎓 College Recommendation Dashboard  
+####  College Recommendation Dashboard  
 _**Tools:** Power BI, Excel, DAX_  
-> 📚 Built for Telangana EAMCET aspirants using rank-based simulation  
-> 📈 Improved personalized matches by 25%  
+>  Built for Telangana EAMCET aspirants using rank-based simulation  
+>  Improved personalized matches by 25%  
 
 ---
 
-### 🧰 My Tech Toolbox
+###  My Tech Toolbox
 
 | Category | Tools |
 |---------|-------|
@@ -48,7 +48,7 @@ _**Tools:** Power BI, Excel, DAX_
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 - Python for Data Science – NPTEL  
 - C Programming – NPTEL  
@@ -56,7 +56,7 @@ _**Tools:** Power BI, Excel, DAX_
 
 ---
 
-### 🏆 Achievements
+###  Achievements
 
 - Participated in **Smart India Hackathon (SIH)**  
 - Active in **TEDx**, **VISHESH**, and innovation challenges  
@@ -64,13 +64,13 @@ _**Tools:** Power BI, Excel, DAX_
 
 ---
 
-### 📄 Resume
+###  Resume
 
-[![View My Resume](https://img.shields.io/badge/Resume-GoogleDrive-blue?logo=googledrive&style=for-the-badge)](https://drive.google.com/file/d/1NIJuYK4CDjyCqK6J8Ofq3AvDwbYgEiYa/view?usp=sharing)
+[![View My Resume](https://img.shields.io/badge/Resume-GoogleDrive-blue?logo=googledrive&style=for-the-badge)](https://drive.google.com/file/d/1zbDnCf9ETKPvF4lJpQvPN93gmDiOO51O/view?usp=sharing)
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijayendra-varma-samudrala-13b4a828a/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/vijayendravarma111)  
@@ -78,7 +78,7 @@ _**Tools:** Power BI, Excel, DAX_
 
 ---
 
-### 🔥 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vijayendravarma111&show_icons=true&theme=github_dark&hide=prs&count_private=true" height="150"/>
@@ -87,7 +87,7 @@ _**Tools:** Power BI, Excel, DAX_
 
 ---
 
-### 📈 GitHub Streak
+###  GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayendravarma111&theme=dark" height="200"/>
@@ -95,5 +95,5 @@ _**Tools:** Power BI, Excel, DAX_
 
 ---
 
-> 💬 _"Turning data into decisions."_  
+>  _"Turning data into decisions."_  
 > — *Vijayendra Varma*
