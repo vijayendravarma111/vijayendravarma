@@ -1,101 +1,122 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Samudrala+Vijayendra+Varma;Data+Science+Student+%7C+Developer;Passionate+about+Data+%26+Visualization&center=true&width=500&height=45">
-</p>
+# 👋 Hi, I’m **Samudrala Vijayendra Varma**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-</p>
+### 📊 Data Analyst | Machine Learning Practitioner | Data-Driven Problem Solver
 
-<h2 align="center"> About Me</h2>
-
- I'm a Data Science student at **Malla Reddy Engineering College**, Hyderabad (CGPA 9.5)  
- I love analyzing data, building dashboards, and solving real-world problems with ML  
- Passionate about data visualization and machine learning  
- Currently diving deeper into Python, Power BI, Tableau, and AI tools  
- Reach me at: [vijayendravarma444@gmail.com](mailto:vijayendravarma444@gmail.com)
+I transform raw data into meaningful insights that support **better decisions, smarter systems, and measurable business impact**.  
+With hands-on experience across analytics, visualization, and machine learning, I build end-to-end data solutions — from data cleaning to predictive modeling and insight delivery.
 
 ---
 
-###  Projects I'm Proud Of
+## 🧠 About Me
 
-#### IPL Analysis Dashboard  
-_**Tools:** Power BI, DAX, Data Modeling_  
-> Designed to analyze 15 IPL seasons with insights on player stats, team trends, and match outcomes  
-> Highlights toss impact, star performers, and venue-based success across all years  
-
-
-####  DTH Multi-Provider Analytics  
-_**Tools:** Python, Pandas, Matplotlib, Seaborn_  
->  District-wise analysis of SunDirect, TataSky, and VillageCable  
->  Insights into churn, setup box interests, and retention strategies  
-
-####  Box Office Success Prediction  
-_**Tools:** Scikit-learn, Pandas, Python_  
->  Used ML to predict ₹100Cr+ movie hits with 85% accuracy  
->  Features like star power and genre match  
+I am a **Data Analyst** with practical experience in **Python, SQL, Power BI, Tableau, and Excel**, focused on extracting insights from complex datasets.  
+My work spans **data preprocessing, exploratory analysis, predictive modeling, and dashboard design**, enabling stakeholders to understand trends and act with confidence.  
+I have built and evaluated machine learning models for real-world problems such as fraud detection and misinformation analysis, always emphasizing **accuracy, interpretability, and impact**.
 
 ---
 
-###  Tech Toolbox
+## 🛠️ Tech Stack
 
-| Category     | Tools                                                                 |
-|--------------|-----------------------------------------------------------------------|
-| Languages    | C, Java, Python (NumPy, Pandas, Matplotlib, Seaborn), SQL            |
-| Libraries    | Pandas, Matplotlib, Seaborn, Scikit-learn                            |
-| Data Viz     | Power BI, Tableau                                                     |
-| Tools        | Jupyter Notebook, Google Colab, Visual Studio Code                   |
-| Other        | GitHub, HTML, Windows                                                 |
+### 💻 Programming
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- **MySQL**
+- **C**
+- **Data Structures & Algorithms (DSA)**
 
----
+### 📈 Data Analytics
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Statistical Analysis & Hypothesis Testing  
+- Predictive Modeling  
 
-###  Certifications
+### 🤖 Machine Learning
+- Feature Engineering  
+- Classification & Regression Models  
+- Model Training & Evaluation  
+- Hyperparameter Tuning  
 
-- [**Python for Data Science** – NPTEL](https://drive.google.com/file/d/1nz3ff5YyObOMHnNrT2U0myv7Jm2KGaaj/view)  
-- [**Machine Learning Using Python Programming** – NPTEL](https://drive.google.com/file/d/1dMlUIiRuiERlZ9iPuj2j73HHyh9sA-5_/view?usp=sharing)  
-- [**C Programming Language** – NPTEL](https://drive.google.com/file/d/1oErheUiD839TKRgILa06mHAc9O_haDrQ/view)  
-- [**Microsoft Azure AI Fundamentals** – Microsoft Certified](https://drive.google.com/file/d/1oKMilF0TsQCrxZuenLATdeaunRxqP8Dt/view)
+### 📊 Visualization
+- **Power BI** (DAX, Power Query)  
+- **Tableau**  
+- **Microsoft Excel** (Pivot Tables, Charts, Power Query)
 
-
----
-
-###  Achievements
-
-• Engaged in impactful tech and innovation events including **VISHESH**, **TEDx**, and multiple college-level hackathons.  
-• Contributed to national innovation initiatives such as **Smart India Hackathon (SIH)** and **MSME Idea Hackathons**, collaborating on real-world problem-solving challenges.
-
----
-
-###  Resume
-
-[![View My Resume](https://img.shields.io/badge/Resume-GoogleDrive-blue?logo=googledrive&style=for-the-badge)](https://drive.google.com/file/d/1zbDnCf9ETKPvF4lJpQvPN93gmDiOO51O/view?usp=sharing)
+### 🧰 Tools & Platforms
+- GitHub  
+- Google Colab  
+- VS Code  
 
 ---
 
-###  Connect With Me
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijayendra-varma-samudrala-13b4a828a/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/vijayendravarma111)  
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:vijayendravarma444@gmail.com)
-
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayendravarma111&show_icons=true&theme=github_dark&hide=prs&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayendravarma111&layout=compact&theme=github_dark" height="150"/>
-</p>
+### 🔐 Online Payment Fraud Detection
+**Problem:** Identify fraudulent transactions in online payment systems.  
+**Tools:** Python, Pandas, Scikit-learn, XGBoost  
+**Impact:**  
+- Trained Logistic Regression, Random Forest, and XGBoost models  
+- Achieved **99.9% validation accuracy** using XGBoost  
+- Visualized transaction patterns using count plots, bar charts, and heatmaps  
 
 ---
 
-###  GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayendravarma111&theme=dark" height="200"/>
-</p>
+### 📦 Amazon Sales Intelligence Dashboard
+**Problem:** Improve visibility into sales performance and customer behavior.  
+**Tools:** Power BI, DAX, Data Visualization  
+**Impact:**  
+- Built an interactive dashboard analyzing revenue, retention, and regional trends  
+- Improved decision visibility for business teams by **35%**  
+- Enabled KPI-driven insights (Total Revenue, AOV, Profit Margin)  
 
 ---
 
->  _"Turning data into decisions."_  
-> — *Vijayendra Varma*
+### 📰 Fake News Detection System
+**Problem:** Classify news articles as real or fake.  
+**Tools:** Python, Pandas, Scikit-learn, NLTK  
+**Impact:**  
+- Processed **44K+ news articles** with text preprocessing and TF-IDF  
+- Achieved **98.9% test accuracy** using Logistic Regression and Decision Trees  
+- Used WordClouds and visual analytics to interpret misinformation patterns  
+
+---
+
+## 👨‍💼 Experience & Leadership
+
+### 🏢 Atharva Data Science Community (ADSC) — *Technical Lead (Internship)*  
+**Mar 2025 – Aug 2025 | Hyderabad, India**
+
+- Led an **8-member analytics team** across data wrangling, modeling, and visualization  
+- Conducted **Python, Power BI, and ML workshops** for 150+ learners  
+- Increased practical skill adoption by **40%**  
+- Optimized GitHub workflows, improving team efficiency by **25%**
+
+---
+
+## 🏆 Achievements & Highlights
+
+- Represented college in **Smart India Hackathon (SIH)** and **MSME Hackathons**  
+- Built and deployed ML solutions for the startup **EDUCATUMY**, contributing to real-world adoption  
+- Awarded for **leadership and mentorship excellence** at ADSC  
+- Microsoft Certified: **Azure AI Fundamentals**
+
+---
+
+## 📜 Certifications
+
+- Complete Data Analyst Bootcamp — Udemy (2025)  
+- Python for Data Science — NPTEL  
+- Machine Learning Using Python — NPTEL  
+- C Programming Language — NPTEL  
+
+---
+
+
+
+## 📬 Connect With Me
+
+- 📧 **Email:** vijayendravarma444@gmail.com  
+- 🔗 **LinkedIn:** www.linkedin.com/in/vijayendravarma100  
+- 🧑‍💻 **GitHub:** https://github.com/vijayendravarma111  
+
+---
+
+⭐ *Always open to collaboration on data analytics, machine learning, and impactful real-world projects.*
