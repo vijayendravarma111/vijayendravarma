@@ -1,122 +1,118 @@
-# 👋 Hi, I’m **Samudrala Vijayendra Varma**
+#  Hi, I’m **Samudrala Vijayendra Varma**
 
-### 📊 Data Analyst | Machine Learning Practitioner | Data-Driven Problem Solver
+###  Data Analyst | SQL Specialist | Machine Learning Practitioner
 
-I transform raw data into meaningful insights that support **better decisions, smarter systems, and measurable business impact**.  
-With hands-on experience across analytics, visualization, and machine learning, I build end-to-end data solutions — from data cleaning to predictive modeling and insight delivery.
-
----
-
-## 🧠 About Me
-
-I am a **Data Analyst** with practical experience in **Python, SQL, Power BI, Tableau, and Excel**, focused on extracting insights from complex datasets.  
-My work spans **data preprocessing, exploratory analysis, predictive modeling, and dashboard design**, enabling stakeholders to understand trends and act with confidence.  
-I have built and evaluated machine learning models for real-world problems such as fraud detection and misinformation analysis, always emphasizing **accuracy, interpretability, and impact**.
+I am a **SQL-driven Data Analyst** specializing in **conversion optimization, pricing strategy, and customer analytics**.  
+I have experience analyzing **400K+ transactions and 80K+ user events**, building end-to-end analytics systems that drive **revenue growth, retention improvement, and data-driven decision-making**. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🛠️ Tech Stack
+##  About Me
 
-### 💻 Programming
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- **MySQL**
-- **C**
-- **Data Structures & Algorithms (DSA)**
+I work on solving real business problems using data.
 
-### 📈 Data Analytics
+My experience includes building complete analytics workflows — from **data cleaning and exploration to modeling and dashboard development**.  
+I focus on extracting actionable insights that help businesses improve **conversion rates, pricing strategies, and customer retention**.
+
+I have hands-on experience with **Python, SQL, Power BI, Tableau, and Excel**, and I enjoy working on problems where data directly impacts business outcomes.
+
+---
+
+##  Tech Stack
+
+###  Programming & Querying
+- **SQL** (Advanced Joins, CTEs, Window Functions)  
+- **Python** (Pandas, NumPy)
+
+###  Data Analytics
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Statistical Analysis & Hypothesis Testing  
-- Predictive Modeling  
+- Funnel Analysis & KPI Development  
+- A/B Testing & Hypothesis Testing  
 
-### 🤖 Machine Learning
-- Feature Engineering  
+###  Machine Learning
 - Classification & Regression Models  
+- Feature Engineering  
 - Model Training & Evaluation  
-- Hyperparameter Tuning  
 
-### 📊 Visualization
+### Visualization
 - **Power BI** (DAX, Power Query)  
 - **Tableau**  
-- **Microsoft Excel** (Pivot Tables, Charts, Power Query)
+- **Microsoft Excel** (Pivot Tables, Lookups)
 
-### 🧰 Tools & Platforms
-- GitHub  
+###  Tools & Platforms
+- Streamlit  
+- Git & GitHub  
 - Google Colab  
 - VS Code  
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔐 Online Payment Fraud Detection
-**Problem:** Identify fraudulent transactions in online payment systems.  
-**Tools:** Python, Pandas, Scikit-learn, XGBoost  
-**Impact:**  
-- Trained Logistic Regression, Random Forest, and XGBoost models  
-- Achieved **99.9% validation accuracy** using XGBoost  
-- Visualized transaction patterns using count plots, bar charts, and heatmaps  
+###  Dynamic Pricing & Revenue Optimization System
+- Processed **400K+ transactions** to analyze demand and pricing patterns  
+- Built a dynamic pricing engine that increased revenue from **8.91M to 9.05M (+1.6%)**  
+- Developed **Streamlit and Power BI dashboards** for real-time pricing decisions  
 
 ---
 
-### 📦 Amazon Sales Intelligence Dashboard
-**Problem:** Improve visibility into sales performance and customer behavior.  
-**Tools:** Power BI, DAX, Data Visualization  
-**Impact:**  
-- Built an interactive dashboard analyzing revenue, retention, and regional trends  
-- Improved decision visibility for business teams by **35%**  
-- Enabled KPI-driven insights (Total Revenue, AOV, Profit Margin)  
+###  Product Funnel & Conversion Optimization System
+- Analyzed **80K+ user events** to build conversion funnel (View → Cart → Purchase)  
+- Identified **53% drop-off** in checkout stage impacting conversions  
+- Built SQL + Python pipeline and Streamlit dashboard for funnel tracking and prediction  
 
 ---
 
-### 📰 Fake News Detection System
-**Problem:** Classify news articles as real or fake.  
-**Tools:** Python, Pandas, Scikit-learn, NLTK  
-**Impact:**  
-- Processed **44K+ news articles** with text preprocessing and TF-IDF  
-- Achieved **98.9% test accuracy** using Logistic Regression and Decision Trees  
-- Used WordClouds and visual analytics to interpret misinformation patterns  
+### Customer Churn Analytics & Retention System
+- Processed **7K+ customer records** to build structured churn dataset  
+- Developed classification models to improve **churn detection recall**  
+- Delivered Power BI dashboard for segmentation and retention strategies  
 
 ---
 
-## 👨‍💼 Experience & Leadership
+##  Experience
 
-### 🏢 Atharva Data Science Community (ADSC) — *Technical Lead (Internship)*  
-**Mar 2025 – Aug 2025 | Hyderabad, India**
+###  Machine Learning Engineer – Team Lead  
+**Educatumy (Startup)** | Sep 2025 – Feb 2026  
 
-- Led an **8-member analytics team** across data wrangling, modeling, and visualization  
-- Conducted **Python, Power BI, and ML workshops** for 150+ learners  
-- Increased practical skill adoption by **40%**  
-- Optimized GitHub workflows, improving team efficiency by **25%**
+- Led **5+ ML and analytics projects** on datasets of 50K+ records  
+- Built end-to-end data pipelines improving model performance by **15–20%**  
+- Delivered insights that supported product and business decision-making  
 
 ---
 
-## 🏆 Achievements & Highlights
+###  Technical Lead  
+**Atharva Data Science Community (ADSC)** | Apr 2025 – Present  
 
-- Represented college in **Smart India Hackathon (SIH)** and **MSME Hackathons**  
-- Built and deployed ML solutions for the startup **EDUCATUMY**, contributing to real-world adoption  
-- Awarded for **leadership and mentorship excellence** at ADSC  
+- Led a community of **800+ students** in data science learning  
+- Mentored projects in analytics and machine learning  
+- Organized workshops, hackathons, and technical sessions  
+
+---
+
+##  Achievements & Highlights
+
+- Participated in **Smart India Hackathon** and **MSME innovation challenges**  
+- Built real-world ML and analytics solutions with measurable impact  
 - Microsoft Certified: **Azure AI Fundamentals**
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-- Complete Data Analyst Bootcamp — Udemy (2025)  
-- Python for Data Science — NPTEL  
-- Machine Learning Using Python — NPTEL  
-- C Programming Language — NPTEL  
-
----
-
-
-
-## 📬 Connect With Me
-
-- 📧 **Email:** vijayendravarma444@gmail.com  
-- 🔗 **LinkedIn:** www.linkedin.com/in/vijayendravarma100  
-- 🧑‍💻 **GitHub:** https://github.com/vijayendravarma111  
+- Microsoft Azure AI Fundamentals  
+- NPTEL: Machine Learning, Python, C Programming  
+- Data Analyst Bootcamp (SQL, Power BI) — Udemy  
 
 ---
 
-⭐ *Always open to collaboration on data analytics, machine learning, and impactful real-world projects.*
+##  Connect With Me
+
+- 📧 Email: vijayendravarma444@gmail.com  
+- 🔗 LinkedIn: www.linkedin.com/in/vijayendra-varma100  
+- 🧑‍💻 GitHub: https://github.com/vijayendravarma111  
+
+---
+
+⭐ Always open to opportunities in **Data Analytics, Machine Learning, and Business Intelligence**
