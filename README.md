@@ -110,7 +110,7 @@ I have hands-on experience with **Python, SQL, Power BI, Tableau, and Excel**, a
 ##  Connect With Me
 
 - 📧 Email: vijayendravarma444@gmail.com  
-- 🔗 LinkedIn: www.linkedin.com/in/vijayendra-varma100  
+- 🔗 LinkedIn: https://www.linkedin.com/in/vijayendravarma100/
 - 🧑‍💻 GitHub: https://github.com/vijayendravarma111  
 
 ---
